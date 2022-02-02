@@ -13,16 +13,19 @@ p{
 .orange-color{
     color: orange;
 }
-section{
-    display: flex;
+.section-class{
+display: flex;
+padding-right: 10%;
+padding-left: 10%;
+
 }
 .half-width{
     width: 100%;
-    padding-left: 1%;
-    padding-top: 3%;
+    padding-top: 5%;
 }
 .half-width img{
     width: 80%;
+
 }
 .buttom-click{
     text-decoration: none;
@@ -33,3 +36,69 @@ section{
         border-radius: 5px;
 
 }
+.new-section{
+    text-align: center;
+}
+.span-color{
+    color: orange;
+}
+.all-div{
+    display: flex;
+    padding-left: 10%;
+   padding-bottom: 5%;
+   padding-right: 15%;
+}
+.div-color{
+    box-shadow: 10px 5px 30px rgb(95, 90, 95);
+    border-radius: 3%;
+    width: 80%;
+    margin-left: 2%;
+
+   
+}
+
+.div-color img{
+    width: 50%;
+    padding-right: 20%;
+}
+.first-div{
+    background-image: linear-gradient(white,gray);
+}
+.second-div{
+    background-image: linear-gradient(gray,rgb(137, 137, 236));
+}
+.third-div{
+    background-image: linear-gradient(gray,rgb(245, 200, 116));
+}
+.devo-content img{
+    width: 70%;
+    padding-left: 25%;
+}
+.develop-king{
+ display: flex;
+}
+.div-part{
+    padding-right: 35%;
+    padding-bottom: 20%;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange,tomato);
+    padding: 10px 20px;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+
+}
+.last-class{
+    display: flex;
+    padding-left: 10%;
+   
+}
+.full-width{
+    width: 65%;
+    padding-top: 5%;
+}
+   .last-section{
+       text-align: center;
+   }
